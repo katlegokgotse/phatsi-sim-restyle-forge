@@ -1,7 +1,7 @@
 
 import React from 'react';
 import Navbar from '../components/Navbar';
-import Hero from '../components/Hero';
+import ParallaxHeaderSlideshow from '../components/ParallaxHeaderSlideshow';
 import ServicesSection from '../components/ServicesSection';
 import AboutSection from '../components/AboutSection';
 import StatsSection from '../components/StatsSection';
@@ -15,7 +15,7 @@ const Index = () => {
     <div className="min-h-screen flex flex-col">
       <Navbar />
       <main>
-        <Hero />
+        <ParallaxHeaderSlideshow />
         <ServicesSection />
         <AboutSection />
         <StatsSection />
