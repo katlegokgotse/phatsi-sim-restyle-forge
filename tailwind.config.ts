@@ -1,3 +1,4 @@
+
 import type { Config } from "tailwindcss";
 
 export default {
@@ -61,6 +62,23 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				corporate: {
+					50: "#E6F0FB",
+					100: "#CCE0F7",
+					200: "#99C2EF",
+					300: "#66A3E6",
+					400: "#3385DE",
+					500: "#0066D6",
+					600: "#0052AB",
+					700: "#003D80",
+					800: "#002956",
+					900: "#00142B",
+				},
+				phatsimo: {
+					blue: "#00305F",
+					red: "#E63B3B",
+					gold: "#E6A23B",
 				}
 			},
 			borderRadius: {
@@ -84,12 +102,20 @@ export default {
 					to: {
 						height: '0'
 					}
-				}
+				},
+                'fade-in': {
+                    '0%': { opacity: '0', transform: 'translateY(10px)' },
+                    '100%': { opacity: '1', transform: 'translateY(0)' }
+                },
 			},
 			animation: {
 				'accordion-down': 'accordion-down 0.2s ease-out',
-				'accordion-up': 'accordion-up 0.2s ease-out'
-			}
+				'accordion-up': 'accordion-up 0.2s ease-out',
+                'fade-in': 'fade-in 0.5s ease-out',
+			},
+            fontFamily: {
+                'poppins': ['Poppins', 'sans-serif'],
+            }
 		}
 	},
 	plugins: [require("tailwindcss-animate")],
