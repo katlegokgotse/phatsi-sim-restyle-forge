@@ -1,38 +1,33 @@
 
 import React from 'react';
-import { Briefcase, BarChart3, LineChart, Search, Users, ShieldCheck } from 'lucide-react';
+import { Briefcase, BarChart3, Award, FileCheck, CheckCircle2 } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const serviceItems = [
   {
     icon: <Briefcase className="w-10 h-10 text-phatsimo-blue mb-4" />,
-    title: "Business Consulting",
-    description: "Expert guidance to optimize operations and drive business growth through strategic insights.",
+    title: "Project and Construction Management",
+    description: "Expert project management to optimize operations and deliver successful construction projects.",
   },
   {
     icon: <BarChart3 className="w-10 h-10 text-phatsimo-blue mb-4" />,
-    title: "Financial Advisory",
-    description: "Comprehensive financial solutions to improve performance and achieve long-term objectives.",
+    title: "Civil and Structural Engineering",
+    description: "Comprehensive civil and structural engineering solutions for sustainable infrastructure development.",
   },
   {
-    icon: <LineChart className="w-10 h-10 text-phatsimo-blue mb-4" />,
-    title: "Strategic Planning",
-    description: "Develop actionable strategic plans that align with your organizational goals and vision.",
+    icon: <Award className="w-10 h-10 text-phatsimo-blue mb-4" />,
+    title: "Transportation and Traffic Engineering",
+    description: "Innovative transportation solutions to improve mobility and traffic management systems.",
   },
   {
-    icon: <Search className="w-10 h-10 text-phatsimo-blue mb-4" />,
-    title: "Market Research",
-    description: "In-depth market analysis to identify opportunities and inform business decisions.",
+    icon: <FileCheck className="w-10 h-10 text-phatsimo-blue mb-4" />,
+    title: "Electrical and Informatics Engineering",
+    description: "Advanced electrical systems and informatics solutions to power your projects.",
   },
   {
-    icon: <Users className="w-10 h-10 text-phatsimo-blue mb-4" />,
-    title: "Talent Management",
-    description: "Effective strategies for attracting, developing, and retaining top talent in your organization.",
-  },
-  {
-    icon: <ShieldCheck className="w-10 h-10 text-phatsimo-blue mb-4" />,
-    title: "Risk Management",
-    description: "Identify and mitigate potential risks to protect your business and ensure sustainability.",
+    icon: <CheckCircle2 className="w-10 h-10 text-phatsimo-blue mb-4" />,
+    title: "Geomatics Engineering",
+    description: "Precision geomatics engineering services utilizing the latest surveying technology.",
   },
 ];
 
@@ -43,7 +38,7 @@ const ServicesSection = () => {
         <div className="text-center mb-16">
           <h2 className="section-title">Our Services</h2>
           <p className="section-subtitle">
-            We provide comprehensive business solutions tailored to your specific needs,
+            We provide comprehensive engineering solutions tailored to your specific needs,
             helping you achieve sustainable growth and success.
           </p>
         </div>
@@ -58,7 +53,21 @@ const ServicesSection = () => {
                 to="/services" 
                 className="text-phatsimo-blue font-medium hover:text-phatsimo-red transition-colors inline-flex items-center"
               >
-                Learn more <ChevronRightIcon className="ml-1 w-4 h-4" />
+                Learn more
+                <svg 
+                  xmlns="http://www.w3.org/2000/svg" 
+                  width="16" 
+                  height="16" 
+                  viewBox="0 0 24 24" 
+                  fill="none" 
+                  stroke="currentColor" 
+                  strokeWidth="2" 
+                  strokeLinecap="round" 
+                  strokeLinejoin="round" 
+                  className="ml-1"
+                >
+                  <path d="m9 18 6-6-6-6"/>
+                </svg>
               </Link>
             </div>
           ))}
@@ -73,22 +82,5 @@ const ServicesSection = () => {
     </section>
   );
 };
-
-const ChevronRightIcon = ({ className }: { className?: string }) => (
-  <svg 
-    xmlns="http://www.w3.org/2000/svg" 
-    width="24" 
-    height="24" 
-    viewBox="0 0 24 24" 
-    fill="none" 
-    stroke="currentColor" 
-    strokeWidth="2" 
-    strokeLinecap="round" 
-    strokeLinejoin="round" 
-    className={className}
-  >
-    <path d="m9 18 6-6-6-6"/>
-  </svg>
-);
 
 export default ServicesSection;
