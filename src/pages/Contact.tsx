@@ -1,4 +1,3 @@
-
 import React from 'react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
@@ -38,44 +37,87 @@ const Contact = () => {
             
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               <div className="bg-gray-50 p-6 rounded-lg border border-gray-100">
-                <h3 className="text-xl font-semibold text-phatsimo-blue mb-3">Johannesburg</h3>
+                <h3 className="text-xl font-semibold text-phatsimo-blue mb-3">HEAD OFFICE</h3>
                 <p className="text-gray-700 mb-4">
-                  123 Business Park<br />
-                  Sandton<br />
-                  Johannesburg, 2196<br />
-                  South Africa
+                  Physical Address<br />
+                  67 Peggy Vera Road<br />
+                  Kibler Park<br />
+                  2091<br />
+                  PO Box 2060<br />
+                  Southdale<br />
+                  2135<br />
                 </p>
                 <p className="text-gray-700">
-                  <strong>Phone:</strong> +27 11 234 5678<br />
-                  <strong>Email:</strong> jhb@phatsimogroup.co.za
+                  <strong>Phone:</strong> +27 11 943 3790<br />
+                  <strong>Fax:</strong> +27 11 943 3773<br />
+                  <strong>Email:</strong> info.phatsimo@gmail.com
                 </p>
               </div>
               
               <div className="bg-gray-50 p-6 rounded-lg border border-gray-100">
-                <h3 className="text-xl font-semibold text-phatsimo-blue mb-3">Cape Town</h3>
+                <h3 className="text-xl font-semibold text-phatsimo-blue mb-3">POLOKWANE OFFICE</h3>
                 <p className="text-gray-700 mb-4">
-                  456 Waterfront Drive<br />
-                  V&A Waterfront<br />
-                  Cape Town, 8001<br />
-                  South Africa
+                  Physical Address<br />
+                  58-60 Landros Mare street<br />
+                  Thabakgolo Building, 3rd Floor<br />
+                  Polokwane, 0700<br />
                 </p>
                 <p className="text-gray-700">
-                  <strong>Phone:</strong> +27 21 345 6789<br />
-                  <strong>Email:</strong> cpt@phatsimogroup.co.za
+                  <strong>Phone:</strong> +27 15 101 0600<br />
+                  <strong>Fax:</strong> +27 86 272 3795<br />
+                  <strong>Email:</strong> info.phatsimo@gmail.com
                 </p>
               </div>
               
               <div className="bg-gray-50 p-6 rounded-lg border border-gray-100">
-                <h3 className="text-xl font-semibold text-phatsimo-blue mb-3">Durban</h3>
+                <h3 className="text-xl font-semibold text-phatsimo-blue mb-3">MAHIKENG OFFICE</h3>
                 <p className="text-gray-700 mb-4">
-                  789 Umhlanga Rocks Drive<br />
-                  Umhlanga<br />
-                  Durban, 4320<br />
-                  South Africa
+                  Physical Address<br />
+                  44 Baden Powell street<br />
+                  Golfview<br />
+                  2735<br />
+                  Postnet Suite 183<br />
+                  Private Bag X2230<br />
+                  Mahikeng<br />
+                  2991<br />
                 </p>
                 <p className="text-gray-700">
-                  <strong>Phone:</strong> +27 31 456 7890<br />
-                  <strong>Email:</strong> dbn@phatsimogroup.co.za
+                  <strong>Phone:</strong> +27 18 381 8232<br />
+                  <strong>Fax:</strong> +27 18 381 8120<br />
+                  <strong>Email:</strong> info.phatsimo@gmail.com
+                </p>
+              </div>
+
+              <div className="bg-gray-50 p-6 rounded-lg border border-gray-100">
+                <h3 className="text-xl font-semibold text-phatsimo-blue mb-3">RUSTENBURG OFFICE</h3>
+                <p className="text-gray-700 mb-4">
+                  Physical Address<br />
+                  178B President Mbeki Drive<br />
+                  Rustenburg<br />
+                  0299<br />
+                </p>
+                <p className="text-gray-700">
+                  <strong>Phone:</strong> +27 14 592 0791<br />
+                  <strong>Fax:</strong> +27 14 592 0791<br />
+                  <strong>Email:</strong> info.phatsimo@gmail.com
+                </p>
+              </div>
+
+              <div className="bg-gray-50 p-6 rounded-lg border border-gray-100">
+                <h3 className="text-xl font-semibold text-phatsimo-blue mb-3">KIMBERLEY OFFICE</h3>
+                <p className="text-gray-700 mb-4">
+                  Physical Address<br />
+                  18 Schmidtsdrift Road<br />
+                  Verwoerd Park<br />
+                  8300<br />
+                  P O Box 1695<br />
+                  Kimberley<br />
+                  8301<br />
+                </p>
+                <p className="text-gray-700">
+                  <strong>Phone:</strong> +27 53 861 6451<br />
+                  <strong>Fax:</strong> +27 86 672 7862<br />
+                  <strong>Email:</strong> info.phatsimo@gmail.com
                 </p>
               </div>
             </div>

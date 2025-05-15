@@ -1,4 +1,3 @@
-
 import React from 'react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
@@ -6,6 +5,7 @@ import CtaSection from '../components/CtaSection';
 import { Briefcase, CheckCircle2, Award, Users, BarChart, FileCheck } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import ParallaxSlideshow from '../components/ParallaxSlideshow';
+import ClientsLogos from '../components/ClientsLogos';
 
 const serviceItems = [
   {
@@ -36,12 +36,14 @@ const serviceItems = [
 ];
 
 const coreValues = [
-  { title: "Quality", description: "We never compromise when it comes to quality. We have a team of quality assurance team that make sure that projects deliverables have been met." },
-  { title: "Integrity", description: "We uphold the highest standards of integrity in all our business dealings, ensuring transparency and ethical conduct." },
-  { title: "Passion", description: "We are passionate about our work and committed to delivering exceptional results for our clients." },
-  { title: "Team Work", description: "Not only do we work as a team within the organization but we also have high collaboration standards with all the clients we work with." },
-  { title: "Excellence", description: "We strive for excellence in everything we do, constantly pushing boundaries to achieve the best outcomes." },
-  { title: "Accuracy", description: "Precision and accuracy are paramount in our engineering solutions, ensuring reliable and dependable results." },
+  { title: "Passion" },
+  { title: "Honesty" },
+  { title: "Accountability" },
+  { title: "Trustworthy" },
+  { title: "Service-centered" },
+  { title: "Innovative" },
+  { title: "Masterful" },
+  { title: "Ownership" },
 ];
 
 const statsItems = [
@@ -114,16 +116,17 @@ const Services = () => {
             <div className="text-center max-w-3xl mx-auto mb-10">
               <h2 className="section-title">Our Mission</h2>
               <p className="text-lg text-gray-700 mt-6">
-                Our mission is to provide a quality project, construction management and engineering solutions 
-                to the private and public sector by being a value-adding supplier that follows our industry best practice,
-                using the latest technology and training and developing our employees to the benefit of the communities 
-                who are the final recipients of our services.
+                Our mission is to provide a quality project, construction management and engineering solutions to the private 
+                and public sector by being a value-adding supplier that follows our industry best practice, using the latest 
+                technology and training and developing our employees to the benefit of the communities who are the  
+                recipients of our services.
               </p>
-              <div className="mt-8">
-                <span className="text-lg font-semibold text-phatsimo-blue">
-                  Successfully Providing Engineering Solution for 23 years
-                </span>
-              </div>
+              <p className="text-lg text-gray-700 mt-6">
+                Our mission is to deliver high-quality construction management and engineering solutions to both the private 
+                and public sectors. We strive to be a value-adding partner by adhering to industry best practices, leveraging the 
+                latest technologies, and investing in the training and development of our employees. This commitment 
+                ultimately benefits the communities that receive our services.
+              </p>
             </div>
           </div>
         </section>
@@ -151,36 +154,6 @@ const Services = () => {
                   <h3 className="text-xl font-semibold text-phatsimo-blue mb-2">{value.title}</h3>
                 </div>
               ))}
-            </div>
-            
-            {/* Values Detail */}
-            <div className="mt-12 bg-gray-50 p-8 rounded-lg">
-              <h3 className="text-2xl font-bold text-phatsimo-blue mb-6 text-center">Our Values In Detail</h3>
-              <p className="text-center mb-8">
-                Phatsimo Management Consultants Pty (Ltd) has been consistent since inception
-              </p>
-              
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
-                <div className="p-6 bg-white rounded-lg shadow-sm">
-                  <h4 className="text-xl font-semibold text-phatsimo-blue mb-4">Quality</h4>
-                  <p className="text-gray-600">
-                    We never compromise when it comes to quality. We have a team of quality assurance team that make sure that projects deliverables have been met.
-                  </p>
-                </div>
-                
-                <div className="p-6 bg-white rounded-lg shadow-sm">
-                  <h4 className="text-xl font-semibold text-phatsimo-blue mb-4">Team Work</h4>
-                  <p className="text-gray-600">
-                    Not only do we work as a team within the organization but we also have high collaboration standards with all the clients we work with.
-                  </p>
-                </div>
-              </div>
-              
-              <div className="text-center mt-8">
-                <Link to="/contact" className="btn-primary">
-                  Contact us
-                </Link>
-              </div>
             </div>
           </div>
         </section>
@@ -258,16 +231,7 @@ const Services = () => {
             <div className="text-center mb-12">
               <h2 className="section-title">Our Clients</h2>
             </div>
-            
-            <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6 items-center">
-              {[1, 2, 3, 4, 5, 6].map((item) => (
-                <div key={item} className="flex justify-center">
-                  <div className="bg-gray-100 w-32 h-32 rounded-lg flex items-center justify-center">
-                    <span className="text-gray-400 font-medium">Client Logo</span>
-                  </div>
-                </div>
-              ))}
-            </div>
+            <ClientsLogos />
           </div>
         </section>
         
