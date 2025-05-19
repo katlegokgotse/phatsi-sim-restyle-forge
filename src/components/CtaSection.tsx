@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowRight } from 'lucide-react';
+import ClientsLogos from './ClientsLogos';
 
 const CtaSection = () => {
   return (
@@ -34,6 +35,7 @@ const CtaSection = () => {
               Adding project <ArrowRight className="ml-2" size={18} />
             </Link>
           </div>
+          <ClientsLogos/>
         </div>
       </div>
     </section>
