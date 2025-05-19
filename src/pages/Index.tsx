@@ -8,6 +8,7 @@ import ContactSection from '../components/ContactSection';
 import CtaSection from '../components/CtaSection';
 import Footer from '../components/Footer';
 import Navbar from '@/components/Navbar';
+import ClientsLogos from '@/components/ClientsLogos';
 
 const Index = () => {
   return (
@@ -22,6 +23,7 @@ const Index = () => {
         <ImageSlideshow />
         <ContactSection />
         <CtaSection />
+        <ClientsLogos/>
       </main>
       <Footer />
     </div>
