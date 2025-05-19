@@ -1,0 +1,223 @@
+{
+  "company-a": {
+    "displayName": "PROJECT MANAGEMENT",
+    "description": "PROJECT MANAGEMENT\nRural Roads Assest Management Systems Rural Roads Assest Management Systems Rural Roads Assest Management Systems\nWaterberg District Municipality Mopani District Municipality Xhariep District Municipality\n2018 2017 2016\nRoad Asset Management System Key Performance Indicators\nNorth West Province 2016\nRural Roads Assets Management Systems Rural Roads Assets Management Systems Rural Roads Assets Management Systems\nNgaka Modiri Molema District Municipality Eden District Municipality\nNamaqua District Municipality\n2016 2015 2015\nRural Roads Assets Management Systems Rural Roads Assets Management Systems Rural Roads Assets Management Systems Rural Roads\nAssets Management Systems Rural Roads Assets Management Systems\nFrances Baard District Municpularity 2015 Lejweleputswa District Municipality 2015 Dr Kenneth Kaunda District Municipality 2014 Bojanala\nPlatinum District Municipality 2014 Thabo Mofutsanyana District Municipality 2014\nMangaung IPTN Mangaung Metro 2013\nRural Roads Assest Management Systems\nNgaka Modiri Molema District Municipality\n2012\nCapital Infrastructure Programme Management Kungwini Local Municipality 2012 Programme\nManagement and Secretariat Gauteng Transport Management Authority 2010 Upgrading of Gravel Roads\nto Surface Roads Tswaing Local Municipality 2010 Construction of Palisade Fencing to Cemeteries\nTswaing Local Municipality 2010 Hospital Rentalization Programme Management Gauteng Department\nof Public Works 2008 Moremela Low Cost Housing Pfunanani Developers 2002 Consolidated\nMunicipal Infrastructure Programme Gauteng: DDP & LG 1999 Upgrading of Pietersburg and\nMankweng Hospital Sechaba Consulting Engineers 1999\nROAD STRUCTURES\nMohlakeng Bridges Gauteng: DLGH 2012 Bekkersdal Taxi Rank West Rand District Municipality\n2002 Vlakfontein/Majola Roads Intersection Upgrading Emfuleni Local Municipality\n2002 Togo Road in Evaton Emfuleni Local Municipality 2002 Cleveland Link Road. Road over Rail Bridge City of\nJohannesburg 2001 PWV6 Basic Planning. Interchange Bridges Gautrans 2001 Wonderkop Gravel Roads Madibeng Local Municipality\n2001 Segwaelane Gravel Roads Madibeng Local Municipality\n2001 Tshepiso North Bulk Sewer Lekoa Vaal Metropolitan Council 2001\nCONSTRUCTION MANAGEMENT\nRoutine Roads Maintenance Programme  (Bronkhorstspruit)\nDepartment of Roads & Transport 2010\nRoutine Roads Maintenance (Vereeniging) Department of Roads & Transport\n2008 Bekkersdal Taxi Rank West Rand District Municipality 2002\nVlakfontein/Majola Roads Intersection Upgrading Emfuleni\nLocal Municipality 2002 Togo Road in Evaton Emfuleni Local\nMunicipality 2002 Wonderkop Gravel Roads Madibeng Local\nMunicipality 2001 Segwaelane Gravel Roads Madibeng Local\nMunicipality 2001 Tshepiso North Bulk Sewer Lekoa Vaal Metropolitan Council\nCONSTRUCTION MANAGEMENT\nRoutine Roads Maintenance Programme  (Bronkhorstspruit)\nDepartment of Roads & Transport 2010\nRoutine Roads Maintenance (Vereeniging) Department of Roads & Transport\n2008 Bekkersdal Taxi Rank West Rand District Municipality 2002\nVlakfontein/Majola Roads Intersection Upgrading Emfuleni\nLocal Municipality 2002 Togo Road in Evaton Emfuleni Local\nMunicipality 2002 Wonderkop Gravel Roads Madibeng Local\nMunicipality 2001 Segwaelane Gravel Roads Madibeng Local\nMunicipality 2001 Tshepiso North Bulk Sewer Lekoa Vaal Metropolitan Council 2001",
+    "client": "Rural Roads Assest Management Systems Rural Roads Assest Management Systems Rural Roads Assest Management Systems\nWaterberg District Municipality Mopani District Municipality Xhariep District Municipality\nRoad Asset Management System Key Performance Indicators\nNorth West Province\nRural Roads Assets Management Systems Rural Roads Assets Management Systems Rural Roads Assets Management Systems\nNgaka Modiri Molema District Municipality Eden District Municipality\nNamaqua District Municipality\nRural Roads Assets Management Systems Rural Roads Assets Management Systems Rural Roads Assets Management Systems Rural Roads\nAssets Management Systems Rural Roads Assets Management Systems\nFrances Baard District Municpularity Lejweleputswa District Municipality Dr Kenneth Kaunda District Municipality Bojanala\nPlatinum District Municipality Thabo Mofutsanyana District Municipality\nMangaung IPTN Mangaung Metro\nRural Roads Assest Management Systems\nNgaka Modiri Molema District Municipality\nCapital Infrastructure Programme Management Kungwini Local Municipality Programme\nManagement and Secretariat Gauteng Transport Management Authority Upgrading of Gravel Roads\nto Surface Roads Tswaing Local Municipality Construction of Palisade Fencing to Cemeteries\nTswaing Local Municipality Hospital Rentalization Programme Management Gauteng Department\nof Public Works Moremela Low Cost Housing Pfunanani Developers Consolidated\nMunicipal Infrastructure Programme Gauteng: DDP & LG Upgrading of Pietersburg and\nMankweng Hospital Sechaba Consulting Engineers\nROAD STRUCTURES\nMohlakeng Bridges Gauteng: DLGH Bekkersdal Taxi Rank West Rand District Municipality\nVlakfontein/Majola Roads Intersection Upgrading Emfuleni Local Municipality\nTogo Road in Evaton Emfuleni Local Municipality Cleveland Link Road. Road over Rail Bridge City of\nJohannesburg PWV6 Basic Planning. Interchange Bridges Gautrans Wonderkop Gravel Roads Madibeng Local Municipality\nSegwaelane Gravel Roads Madibeng Local Municipality\nTshepiso North Bulk Sewer Lekoa Vaal Metropolitan Council\nCONSTRUCTION MANAGEMENT\nRoutine Roads Maintenance Programme  (Bronkhorstspruit)\nDepartment of Roads & Transport\nRoutine Roads Maintenance (Vereeniging) Department of Roads & Transport\nBekkersdal Taxi Rank West Rand District Municipality\nVlakfontein/Majola Roads Intersection Upgrading Emfuleni\nLocal Municipality Togo Road in Evaton Emfuleni Local\nMunicipality Wonderkop Gravel Roads Madibeng Local\nMunicipality Segwaelane Gravel Roads Madibeng Local\nMunicipality Tshepiso North Bulk Sewer Lekoa Vaal Metropolitan Council",
+    "projects": [
+      {
+        "name": "Rural Roads Asset Management Systems",
+        "client": "Waterberg District Municipality",
+        "year": "2018"
+      },
+      {
+        "name": "Rural Roads Asset Management Systems",
+        "client": "Mopani District Municipality",
+        "year": "2017"
+      },
+      {
+        "name": "Rural Roads Asset Management Systems",
+        "client": "Xhariep District Municipality",
+        "year": "2016"
+      },
+      {
+        "name": "Road Asset Management System Key Performance Indicators",
+        "client": "North West Province",
+        "year": "2016"
+      },
+      {
+        "name": "Rural Roads Asset Management Systems",
+        "client": "Ngaka Modiri Molema District Municipality",
+        "year": "2016"
+      },
+      {
+        "name": "Rural Roads Asset Management Systems",
+        "client": "Eden District Municipality",
+        "year": "2015"
+      },
+      {
+        "name": "Rural Roads Asset Management Systems",
+        "client": "Namaqua District Municipality",
+        "year": "2015"
+      },
+      {
+        "name": "Rural Roads Asset Management Systems",
+        "client": "Frances Baard District Municipality",
+        "year": "2015"
+      },
+      {
+        "name": "Rural Roads Asset Management Systems",
+        "client": "Lejweleputswa District Municipality",
+        "year": "2015"
+      },
+      {
+        "name": "Rural Roads Asset Management Systems",
+        "client": "Dr Kenneth Kaunda District Municipality",
+        "year": "2014"
+      },
+      {
+        "name": "Rural Roads Asset Management Systems",
+        "client": "Bojanala Platinum District Municipality",
+        "year": "2014"
+      },
+      {
+        "name": "Rural Roads Asset Management Systems",
+        "client": "Thabo Mofutsanyana District Municipality",
+        "year": "2014"
+      },
+      {
+        "name": "Mangaung IPTN",
+        "client": "Mangaung Metro",
+        "year": "2013"
+      },
+      {
+        "name": "Rural Roads Asset Management Systems",
+        "client": "Ngaka Modiri Molema District Municipality",
+        "year": "2012"
+      },
+      {
+        "name": "Capital Infrastructure Programme Management",
+        "client": "Kungwini Local Municipality",
+        "year": "2012"
+      },
+      {
+        "name": "Programme Management and Secretariat",
+        "client": "Gauteng Transport Management Authority",
+        "year": "2010"
+      },
+      {
+        "name": "Upgrading of Gravel Roads to Surface Roads",
+        "client": "Tswaing Local Municipality",
+        "year": "2010"
+      }
+    ]
+  },
+  "company-b": {
+    "displayName": "PUBLIC TRANSPORT",
+    "description": "PUBLIC TRANSPORT\nPrefeasibility studies for various Public Transport Facilities Current Public Transport Records\nEtkurhuleni Metropolitan Municipality Ethekwini Metro\n2015 2013\nPublic Transport Facilities and Infrastructure Plan North West DPWRT 2013\nDevelopment of District ITP, incl. CPTR & Rationalisation of Taxis & Buses\nFrancis Baard District Municipality 2012\nN12 By-Pass Study\nMultimodal Public Transport Facilities\nSolPlaatjie LM\nNorth West DPWRT\n2011 2010\nIntersite Park Station : Bus Facilities Intersite 2006 Audit of Minibus Taxi Facilities City of\nJohannesburg 2004 Daveyton Station Conceptual and Detailed Design Intersite 2003 Phefeni Taxi\nRank Preliminary Design City of Johannesburg 2001 Monitoring of Public Transport Facilities Greater\nPretoria Metro 2000 TIPP Complex Rail Conceptual Design SA Commuter Rail Corporation 2000\nDunswart Daveyton Rail Corridor SA Commuter Rail Corporation 1999 Limindlela/Leralla Station\nConceptual Design SA Commuter Rail Corporation 1998 Oakmoor Station Conceptual Design SA Commuter Rail Corporation 1988\nTRANSPORT MANAGEMENT SYSTEM\nTraffic Safety Measures for Soshanguve City of Tshwane 2001 RAM: Phase 1 - Tshwane Road Hierarchy City of Tshwane 2001\nVan der Walt Street Road Safety Audit Zambezi Drive Road Safety Audit\nTRANSPORT IMPACT STUDIES\nPretoria City Council 2000 Pretoria City Council 2000\nWeltevreden Park mixed use Development SJN Development Planners 2000 Eiselen Park\nDevelopment SJN Development Planners 1999 Ballyclare mixed use Development ARUP (Pty) Ltd\n1998 Brakpan Filling Station ARUP (Pty) Ltd 1988 Rhema Church ARUP (Pty) Ltd 1997\nTRANSPORTATION MODELING\nEMME/2 Recalibration for Greater Pretoria Pretoria City Council 2000 SATURN Modeling for\nPWV9 Greater Johannesburg Metro 2000\nMASTER PLANNING\nDevelopment of Stormwater Master Plan\nDevelopment of Integrated Transport Master Plan (ITMP 25)\nRustenburg Local Municipality Gauteng Dept of Roads and Transport\n2015 2013\nRoad Master Plan Ngaka Modiri Molema DM 2011 Road Master Plan Govern Mbeki Local Municipality 2008",
+    "client": "Current Public Transport Records\nEtkurhuleni Metropolitan Municipality Ethekwini Metro\nNorth West DPWRT\nFrancis Baard District Municipality\nCity of Johannesburg\nGreater Pretoria Metro\nSA Commuter Rail Corporation\nCity of Tshwane\nPretoria City Council\nSJN Development Planners\nARUP (Pty) Ltd\nPretoria City Council\nRustenburg Local Municipality Gauteng Dept of Roads and Transport",
+    "projects": [
+      {
+        "name": "Prefeasibility studies for various Public Transport Facilities",
+        "client": "Etkurhuleni Metropolitan Municipality",
+        "year": "2015"
+      },
+      {
+        "name": "Current Public Transport Records",
+        "client": "Ethekwini Metro",
+        "year": "2013"
+      },
+      {
+        "name": "Public Transport Facilities and Infrastructure Plan",
+        "client": "North West DPWRT",
+        "year": "2013"
+      },
+      {
+        "name": "Development of District ITP, incl. CPTR & Rationalisation of Taxis & Buses",
+        "client": "Francis Baard District Municipality",
+        "year": "2012"
+      },
+      {
+        "name": "N12 By-Pass Study",
+        "client": "SolPlaatjie LM",
+        "year": "2011"
+      },
+      {
+        "name": "Multimodal Public Transport Facilities",
+        "client": "North West DPWRT",
+        "year": "2010"
+      },
+      {
+        "name": "Intersite Park Station: Bus Facilities",
+        "client": "Intersite",
+        "year": "2006"
+      },
+      {
+        "name": "Audit of Minibus Taxi Facilities",
+        "client": "City of Johannesburg",
+        "year": "2004"
+      },
+      {
+        "name": "Development of Stormwater Master Plan",
+        "client": "Rustenburg Local Municipality",
+        "year": "2015"
+      },
+      {
+        "name": "Development of Integrated Transport Master Plan (ITMP 25)",
+        "client": "Gauteng Dept of Roads and Transport",
+        "year": "2013"
+      },
+      {
+        "name": "Road Master Plan",
+        "client": "Ngaka Modiri Molema DM",
+        "year": "2011"
+      },
+      {
+        "name": "Road Master Plan",
+        "client": "Govern Mbeki Local Municipality",
+        "year": "2008"
+      }
+    ]
+  },
+  "company-c": {
+    "displayName": "TRANSPORT PLANNING AND LAND USE",
+    "description": "TRANSPORT PLANNING AND LAND USE\nDevelopment of District ITP\nCompilation of Ngaka Modiri Molema District ITP\nCompilation of Dr Ruth Segomotsi Mompati District ITP\nDevelopment of District ITP\nDevelopment of the PLTF\nCompilation of Ngaka Modiri Molema District ITP",
+    "client": "John Taolo Gaetsewe DM North West Province: DCSTM North West Province: DCSTM John Taolo Gaetsewe DM Northern Cape: DTSL\nNorth West Province: DPTRW North West Province: DPTRW\n2015 2015 2015 2015 2013 2012 2011\nGiyani & Makhado Multimodal Facility Intersite 2011\nDevelopment of a Comprehensive ITP, CPTR, OLS/RATPLAN & PTP\nNorth West Province: DPWRT 2010\nMafikeng LM Multimodal Facility North West DPWRT 2010 Ramotshere Moila LM Multimodal Facility North West DPWRT 2010 Ratlou LM\nMultimodal Facility North West DPWRT 2010\nNational Station Project Precinct Plan Southern Gauteng Region National Station Project Precinct Plan Northern Gauteng Region\nIntersite Intersite\n2010 2009\nIntegrated Network Design MNS for DPTRW 2009 Development of a District ITP, Data collection West Rand District Municipality 2009 Development of a Comprehensive ITP, CPTR Gert Sibande District Municipality 2008\nTraffic Impact Evaluation DPTRW 2007 Gert Sibande DM: ITP Gert Sibande Municipality 2007\nCOJ: Parking Policy\nPlanning of the International Transit and Shopping Centre - Joubert Park\nCity of Johannesburg City of Johannesburg\n2006 2005\nBohlabela: CPTR District Council 2003 Investigation of Dedicated Public Transport City of Johannesburg 2003 JHB: Integrated Transport Plan City of Johannesburg 2003 Land Management and Transport LDOs Eastern Gauteng Services Council 1999 Integrated Transport Plan -\nTransportation Lekoa Vaal Metropolitan Council 1999 Current Public Transport Record, TPR2 Lekoa Vaal Metropolitan Council 1998",
+    "projects": [
+      {
+        "name": "Development of District ITP",
+        "client": "John Taolo Gaetsewe DM",
+        "year": "2015"
+      },
+      {
+        "name": "Compilation of Ngaka Modiri Molema District ITP",
+        "client": "North West Province: DCSTM",
+        "year": "2015"
+      },
+      {
+        "name": "Compilation of Dr Ruth Segomotsi Mompati District ITP",
+        "client": "North West Province: DCSTM",
+        "year": "2015"
+      },
+      {
+        "name": "Development of District ITP",
+        "client": "John Taolo Gaetsewe DM",
+        "year": "2015"
+      },
+      {
+        "name": "Development of the PLTF",
+        "client": "Northern Cape: DTSL",
+        "year": "2013"
+      },
+      {
+        "name": "Compilation of Ngaka Modiri Molema District ITP",
+        "client": "North West Province: DPTRW",
+        "year": "2012"
+      },
+      {
+        "name": "Giyani & Makhado Multimodal Facility",
+        "client": "Intersite",
+        "year": "2011"
+      },
+      {
+        "name": "Development of a Comprehensive ITP, CPTR, OLS/RATPLAN & PTP",
+        "client": "North West Province: DPWRT",
+        "year": "2010"
+      },
+      {
+        "name": "Mafikeng LM Multimodal Facility",
+        "client": "North West DPWRT",
+        "year": "2010"
+      },
+      {
+        "name": "Ramotshere Moila LM Multimodal Facility",
+        "client": "North West DPWRT",
+        "year": "2010"
+      },
+      {
+        "name": "Ratlou LM Multimodal Facility",
+        "client": "North West DPWRT",
+        "year": "2010"
+      }
+    ]
+  }
+}

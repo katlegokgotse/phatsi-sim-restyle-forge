@@ -1,5 +1,3 @@
-import React from 'react';
-import Navbar from '../components/Navbar';
 import Hero from '../components/Hero';
 import ParallaxHeaderSlideshow from '../components/ParallaxHeaderSlideshow';
 import ServicesSection from '../components/ServicesSection';
@@ -9,12 +7,13 @@ import ImageSlideshow from '../components/ImageSlideshow';
 import ContactSection from '../components/ContactSection';
 import CtaSection from '../components/CtaSection';
 import Footer from '../components/Footer';
+import Navbar from '@/components/Navbar';
 
 const Index = () => {
   return (
     <div className="min-h-screen flex flex-col">
-      <Navbar />
       <main>
+        <Navbar />
         <Hero />
         <ParallaxHeaderSlideshow />
         <ServicesSection />
