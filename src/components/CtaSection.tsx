@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowRight } from 'lucide-react';
@@ -27,6 +26,12 @@ const CtaSection = () => {
               className="border-2 border-white text-white px-6 py-[10px] rounded-md hover:bg-white/10 transition-all duration-300 font-medium"
             >
               Learn More
+            </Link>
+            <Link
+              to="/project"
+              className="bg-white text-phatsimo-blue px-8 py-3 rounded-md hover:bg-gray-100 transition-all duration-300 font-semibold inline-flex items-center"
+            >
+              Adding project <ArrowRight className="ml-2" size={18} />
             </Link>
           </div>
         </div>

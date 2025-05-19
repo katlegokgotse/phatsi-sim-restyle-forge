@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { ChevronRight, ArrowRight, ArrowLeft } from 'lucide-react';
@@ -132,14 +131,7 @@ const ParallaxHeaderSlideshow = () => {
                     <ChevronRight size={18} className="ml-1" />
                   </Link>
                 </div>
-                <div className="pt-8 animate-fade-in" style={{ animationDelay: '0.6s' }}>
-                  <p className="text-gray-300 mb-3">Trusted by leading organizations</p>
-                  <div className="flex flex-wrap items-center gap-8">
-                    <div className="bg-white/20 px-4 py-2 rounded-md text-white font-semibold">Company A</div>
-                    <div className="bg-white/20 px-4 py-2 rounded-md text-white font-semibold">Company B</div>
-                    <div className="bg-white/20 px-4 py-2 rounded-md text-white font-semibold">Company C</div>
-                  </div>
-                </div>
+                {/* Removed duplicate Company A, B, C buttons */}
               </div>
             </div>
             

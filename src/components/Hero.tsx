@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { ChevronRight } from 'lucide-react';
@@ -34,9 +33,15 @@ const Hero = () => {
             <div className="pt-8">
               <p className="text-gray-300 mb-3">Trusted by leading organizations</p>
               <div className="flex flex-wrap items-center gap-8">
-                <div className="bg-white/20 px-4 py-2 rounded-md text-white font-semibold">Company A</div>
-                <div className="bg-white/20 px-4 py-2 rounded-md text-white font-semibold">Company B</div>
-                <div className="bg-white/20 px-4 py-2 rounded-md text-white font-semibold">Company C</div>
+                <Link to="/project/company-a" className="bg-white/20 px-4 py-2 rounded-md text-white font-semibold hover:bg-white/40 transition-colors">
+                  Company A
+                </Link>
+                <Link to="/project/company-b" className="bg-white/20 px-4 py-2 rounded-md text-white font-semibold hover:bg-white/40 transition-colors">
+                  Company B
+                </Link>
+                <Link to="/project/company-c" className="bg-white/20 px-4 py-2 rounded-md text-white font-semibold hover:bg-white/40 transition-colors">
+                  Company C
+                </Link>
               </div>
             </div>
           </div>

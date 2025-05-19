@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { MapPin, Phone, Mail, Facebook, Twitter, Linkedin, Instagram } from 'lucide-react';
@@ -106,19 +105,32 @@ const Footer = () => {
               <li className="flex items-start">
                 <MapPin className="mr-3 shrink-0 mt-1" size={20} />
                 <span className="text-gray-300">
-                  123 Business Park, Johannesburg, South Africa
+                  HEAD OFFICE<br />
+                  Johannesburg<br />
+                  Physical Address<br />
+                  67 Peggy Vera Road<br />
+                  Kibler Park<br />
+                  2091<br />
+                  PO Box 2060<br />
+                  Southdale<br />
+                  2135
                 </span>
               </li>
               <li className="flex items-center">
                 <Phone className="mr-3 shrink-0" size={20} />
-                <a href="tel:+27123456789" className="text-gray-300 hover:text-white transition-colors">
-                  +27 12 345 6789
-                </a>
+                <div className="flex flex-col">
+                  <a href="tel:+27119433790" className="text-gray-300 hover:text-white transition-colors">
+                    +27 11 943 3790
+                  </a>
+                  <a href="tel:+27119433773" className="text-gray-300 hover:text-white transition-colors">
+                    +27 11 943 3773
+                  </a>
+                </div>
               </li>
               <li className="flex items-center">
                 <Mail className="mr-3 shrink-0" size={20} />
-                <a href="mailto:info@phatsimogroup.co.za" className="text-gray-300 hover:text-white transition-colors">
-                  info@phatsimogroup.co.za
+                <a href="mailto:info.phatsimo@gmail.com" className="text-gray-300 hover:text-white transition-colors">
+                  info.phatsimo@gmail.com
                 </a>
               </li>
             </ul>
