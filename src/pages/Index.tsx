@@ -23,7 +23,6 @@ const Index = () => {
         <ImageSlideshow />
         <ContactSection />
         <CtaSection />
-        <ClientsLogos/>
       </main>
       <Footer />
     </div>
